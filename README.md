@@ -29,3 +29,8 @@ https://user-images.githubusercontent.com/105684989/181427010-a7dc8197-53aa-4eec
 
 https://user-images.githubusercontent.com/105684989/181427026-5513c6b3-d18e-458a-9f9e-376bd3f060bb.mp4
 
+관리자 공지사항
+
+https://user-images.githubusercontent.com/105684989/181427190-a5607017-d424-4e02-9fa4-20d6158e20c6.mp4
+
+
