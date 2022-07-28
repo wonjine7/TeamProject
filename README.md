@@ -9,6 +9,14 @@ https://user-images.githubusercontent.com/105684989/181439044-32056cc4-9638-467f
 
 https://user-images.githubusercontent.com/105684989/181424783-e287c7dd-fefa-438a-bb79-904438cca513.mp4
 
+카테고리
+
+https://user-images.githubusercontent.com/105684989/181454155-dcd31fce-edc4-4067-8376-ec8c15a2155e.mp4
+
+검색기능
+
+Uploading 검색기능.mp4…
+
 관리자 가입, 승인대기
 
 https://user-images.githubusercontent.com/105684989/181424692-4c42e228-c5f1-45f8-a1ad-dd379a4dd912.mp4
