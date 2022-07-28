@@ -1,7 +1,13 @@
 # TeamProject3
 TeamProject3
 
-메인페이지
+
+
+
+
+Uploading 메인페이지.mp4…
+
+
 
 
 
