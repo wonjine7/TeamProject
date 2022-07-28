@@ -3,7 +3,7 @@ TeamProject3
 
 메인페이지
 
-https://user-images.githubusercontent.com/105684989/181439044-32056cc4-9638-467f-a077-821926a79724.mp4
+https://user-images.githubusercontent.com/105684989/181454690-460434d8-53ce-410d-a421-8044492a7b71.mp4
 
 경영자 로그인
 
