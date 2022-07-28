@@ -3,7 +3,7 @@ TeamProject3
 
 경영자 로그인
 
-Uploading 관리자_로그인.mp4…
+https://user-images.githubusercontent.com/105684989/181424783-e287c7dd-fefa-438a-bb79-904438cca513.mp4
 
 관리자 가입, 승인대기
 
