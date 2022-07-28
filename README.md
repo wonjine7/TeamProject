@@ -1,6 +1,10 @@
 # TeamProject3
 TeamProject3
 
+메인페이지
+
+Uploading 메인페이지.mp4…
+
 경영자 로그인
 
 https://user-images.githubusercontent.com/105684989/181424783-e287c7dd-fefa-438a-bb79-904438cca513.mp4
@@ -16,6 +20,11 @@ https://user-images.githubusercontent.com/105684989/181424734-722bb041-6185-4090
 관리자 상품등록 및 상품상세보기
 
 https://user-images.githubusercontent.com/105684989/181427125-319af34a-27b5-4e50-9739-853637345daa.mp4
+
+일반회원 주문하기 / 주문확인
+
+https://user-images.githubusercontent.com/105684989/181434615-9df10c26-b685-4a75-bbbc-1a8ca2a3525c.mp4
+
 
 관리자 주문관리
 
