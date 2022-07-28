@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/105684989/181454155-dcd31fce-edc4-4067
 
 검색기능
 
-Uploading 검색기능.mp4…
+https://user-images.githubusercontent.com/105684989/181454474-ec336b99-574a-4172-a1f3-a949bf3bd27f.mp4
 
 관리자 가입, 승인대기
 
