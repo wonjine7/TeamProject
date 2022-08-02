@@ -9,6 +9,14 @@ https://user-images.githubusercontent.com/105684989/181454690-460434d8-53ce-410d
 
 https://user-images.githubusercontent.com/105684989/181424783-e287c7dd-fefa-438a-bb79-904438cca513.mp4
 
+소셜로그인
+
+https://user-images.githubusercontent.com/105684989/182329375-a117f17d-93a9-4951-8fdc-0e916a5acbad.mp4
+
+비밀번호찾기-임시비밀번호 메일발송
+
+https://user-images.githubusercontent.com/105684989/182329545-8b370154-4948-4929-9f59-4bbbf9bd4efc.mp4
+
 카테고리
 
 https://user-images.githubusercontent.com/105684989/181454155-dcd31fce-edc4-4067-8376-ec8c15a2155e.mp4
